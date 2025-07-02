@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class Programs extends ProgrammClass
 {
+	
 
 	public void swapingWithoutTemp() {
 		// TODO Auto-generated method stub
